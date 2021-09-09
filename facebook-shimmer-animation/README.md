@@ -12,7 +12,7 @@ Shimmer (sombreado que é uma prévia do posicionamento dos conteúdos) simples 
 
 ## 🛠 Tecnologias
 
-#### Projeto foi construído utilizando **HTML** e CSS mas oq que é isso ?
+#### Projeto foi construído utilizando **HTML** e CSS mas o que é isso ?
 
 - **HTML** ou HyperText Markup Language, que significa: "Linguagem de Marcação de Hipertexto" é uma linguagem de marcação utilizada na construção do "esqueleto" de páginas na Web.
 
