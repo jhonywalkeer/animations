@@ -10,7 +10,7 @@ Este repositório é um copilado de todas animações que realizei, focando em a
 
 - [Facebook Shimmer](https://github.com/JhonyWalker-pixel/animations/tree/master/facebook-shimmer-animation) - Shimmer simples que exemplifica como é criado uma breve animação de carregamento antes do conteúdo.
 
-- [Falling Confetti](https://github.com/JhonyWalker-pixel/animations/tree/master/facebook-shimmer-animation) - Uma animação simples (mas viciante) de confetes caindo
+- [Falling Confetti](https://github.com/JhonyWalker-pixel/animations/tree/main/falling-confetti) - Uma animação simples (mas viciante) de confetes caindo
 
 - [Loading LinkedIn](https://github.com/JhonyWalker-pixel/animations/tree/master/loading-linkedin-animation) - Animação de carregamento do LinkedIn, acesse o mesmo e veja essa animação aparecendo constantemente.
 
