@@ -1,30 +1,30 @@
-## 💻 Resumo do repositório
+## 💻 Repository Summary
 
-Este repositório é um copilado de todas animações que realizei, focando em animações famosas de sites conhecidos e de animações simples.
+This repository is a compilation of all animations I've done, focusing on famous animations from well-known sites and simple animations.
 
 ```text
-⚠ ESTES PROJETOS É APENAS UM ESTUDO NÃO UTILIZADO DE MANEIRA MALIOSA
+⚠ THESE PROJECTS IS JUST A MALICIOUS UNUSED STUDY
 ```
 
-## 🚩 Navegando pelos projetos
+## 🚩 Navigating through projects
 
-- [Facebook Shimmer](https://github.com/JhonyWalker-pixel/animations/tree/master/facebook-shimmer-animation) - Shimmer simples que exemplifica como é criado uma breve animação de carregamento antes do conteúdo.
+- [Facebook Shimmer](https://github.com/JhonyWalker-pixel/animations/tree/master/facebook-shimmer-animation) - Simple shimmer that exemplifies how a brief loading animation is created before the content.
 
-- [Falling Confetti](https://github.com/JhonyWalker-pixel/animations/tree/main/falling-confetti) - Uma animação simples (mas viciante) de confetes caindo
+- [Falling Confetti](https://github.com/JhonyWalker-pixel/animations/tree/main/falling-confetti) - A simple (but addictive) confetti falling animation
 
-- [Loading LinkedIn](https://github.com/JhonyWalker-pixel/animations/tree/master/loading-linkedin-animation) - Animação de carregamento do LinkedIn, acesse o mesmo e veja essa animação aparecendo constantemente.
+- [Loading LinkedIn](https://github.com/JhonyWalker-pixel/animations/tree/master/loading-linkedin-animation) - LinkedIn loading animation, go to it and see this animation constantly appearing.
 
-- [Story Instagram](https://github.com/JhonyWalker-pixel/animations/tree/master/story-instagram-animation) - A animação mais vista quando estamos no instagram, o famoso circulo onde pressionamos para ver os storys recriado de uma maneira simples.
+- [Story Instagram](https://github.com/JhonyWalker-pixel/animations/tree/master/story-instagram-animation) - The most seen animation when we're on instagram, the famous circle where we press to see the stories recreated in a simple way.
 
 
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
-Projetos foram construídos com diversas tecnologias e dependências
+Projects were built with different technologies and dependencies
 
-## 🔨 Instalação Local
+## 🔨 Local Installation
 
-Você precisará do [GIT](https://git-scm.com/) na versão mais atualizada, instalado no seu computador para continuar.
+You will need [GIT](https://git-scm.com/) in the most up-to-date version installed on your computer to continue.
 
 ```bash
 git clone https://github.com/JhonyWalker-pixel/animations.git
@@ -33,8 +33,9 @@ $ cd animations
 $ code .
 ```
 
-E agora para rodar localmente verifique os requisitos necessários no `README.md` de cada projeto
+And now to run locally check the necessary requirements in the `README.md` of each project
+
 
 ## 📖 License
 
-Veja a licença atribuida de cada projeto no `README.md`
+See the license assigned for each project in `README.md`
