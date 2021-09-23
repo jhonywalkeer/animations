@@ -7,6 +7,10 @@
 
 Animation of ejecting the game of the moment: Among Us. Something simple that has been calling attention to what is sensational.
 
+```text
+⚠ THESE PROJECTS IS JUST A MALICIOUS UNUSED STUDY
+```
+
 ## 🛠 Technologies
 
 #### Project was built using **HTML**, **CSS** e **SVG** but what is it?
