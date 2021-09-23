@@ -8,6 +8,8 @@ This repository is a compilation of all animations I've done, focusing on famous
 
 ## 🚩 Navigating through projects
 
+- [Among Us Ejected](https://github.com/JhonyWalker-pixel/animations/tree/master/facebook-shimmer-animation) - Animation of ejecting the game of the moment: Among Us. Something simple that has been calling attention to what is sensational.
+
 - [Facebook Shimmer](https://github.com/JhonyWalker-pixel/animations/tree/master/facebook-shimmer-animation) - Simple shimmer that exemplifies how a brief loading animation is created before the content.
 
 - [Falling Confetti](https://github.com/JhonyWalker-pixel/animations/tree/main/falling-confetti) - A simple (but addictive) confetti falling animation
