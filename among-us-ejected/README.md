@@ -13,7 +13,7 @@ Animation of ejecting the game of the moment: Among Us. Something simple that ha
 
 ## 🛠 Technologies
 
-#### Project was built using **HTML**, **CSS** e **SVG** but what is it?
+#### Project was built using **HTML**, **CSS** and **SVG** but what is it?
 
 - **HTML** or HyperText Markup Language, which means: "Hypertext Markup Language" is a markup language used in the construction of the "skeleton" of web pages.
 
