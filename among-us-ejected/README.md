@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="./images/logo-repo-among.png" alt="Among Us ejected by Jhony Walker" width="300px" />
+    <img src="./images/logo-repo-among.png" alt="Among Us ejected by Jhony Walker" width="60%" />
 </h1>
 
 ## 💻 Repository Summary
