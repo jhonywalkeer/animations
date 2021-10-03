@@ -5,7 +5,7 @@
 
 ## 💻 Repository Summary
 
-A animação mais vista quando estamos no instagram, o famoso circulo onde pressionamos para ver os storys recriado de uma maneira simples.
+The most seen animation when we're on instagram, the famous circle where we press to see the stories recreated in a simple way.
 
 ```text
 ⚠ THESE PROJECTS IS JUST A MALICIOUS UNUSED STUDY
