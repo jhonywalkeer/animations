@@ -15,11 +15,11 @@ Animation of ejecting the game of the moment: Among Us. Something simple that ha
 
 #### Project was built using **HTML**, **CSS** and **SVG** but what is it?
 
-- **HTML** or HyperText Markup Language, which means: "Hypertext Markup Language" is a markup language used in the construction of the "skeleton" of web pages.
+- **HTML** - Or HyperText Markup Language, which means: "Hypertext Markup Language" is a markup language used in the construction of the "skeleton" of web pages.
 
-- **CSS** or Cascading Style Sheets is a mechanism for adding style to a web document.
+- **CSS** - Or Cascading Style Sheets is a mechanism for adding style to a web document.
 
-- **SVG** is the abbreviation for Scalable Vector Graphics which can be translated from English as scalable vector graphics. It is an XML language for describing two-dimensional drawings and graphics in vector form, either static, dynamic or animated.
+- **SVG** - Is the abbreviation for Scalable Vector Graphics which can be translated from English as scalable vector graphics. It is an XML language for describing two-dimensional drawings and graphics in vector form, either static, dynamic or animated.
 
 ## 🔨 Local Installation
 
