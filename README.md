@@ -18,6 +18,8 @@ This repository is a compilation of all animations I've done, focusing on famous
 
 - [Story Instagram](https://github.com/jhonywalkeer/animations/tree/master/story-instagram-animation) - The most seen animation when we're on instagram, the famous circle where we press to see the stories recreated in a simple way.
 
+- [The Sass Husky](https://github.com/jhonywalkeer/animations/tree/master/the-sass-husky) - Animation of a charismatic puppy.
+
 
 
 ## 🛠 Technologies
