@@ -8,12 +8,12 @@
 The most seen animation when we're on instagram, the famous circle where we press to see the stories recreated in a simple way.
 
 ```text
-⚠ THESE PROJECTS IS JUST A MALICIOUS UNUSED STUDY
+⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
 ```
 
 ## 🛠 Technologies
 
-#### Project was built using **HTML** and **CSS** but what is it?
+Project was built using **HTML** and **CSS** but what is it?
 
 - **HTML** - Or HyperText Markup Language, which means: "Hypertext Markup Language" is a markup language used in the construction of the "skeleton" of web pages.
 
