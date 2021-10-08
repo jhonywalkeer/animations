@@ -8,12 +8,12 @@
 LinkedIn loading animation, go to it and see this animation constantly appearing.
 
 ```text
-⚠ THIS PROJECT IS JUST A MALICIOUS UNUSED STUDY
+⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
 ```
 
 ## 🛠 Technologies
 
-#### Project was built using **HTML** and **CSS** but what is it?
+Project was built using **HTML** and **CSS** but what is it?
 
 - **HTML** - Or HyperText Markup Language, which means: "Hypertext Markup Language" is a markup language used in the construction of the "skeleton" of web pages.
 
