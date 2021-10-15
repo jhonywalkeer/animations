@@ -8,17 +8,17 @@ This repository is a compilation of all animations I've done, focusing on famous
 
 ## 🚩 Navigating through projects
 
-- [Among Us Ejected](https://github.com/jhonywalkeer/animations/tree/master/facebook-shimmer-animation) - Animation of ejecting the game of the moment: Among Us. Something simple that has been calling attention to what is sensational.
+- [Among Us Ejected](https://github.com/jhonywalkeer/animations/tree/master/among-us-ejected) - Ejection animation of the game of the moment: Between Us. Something simple that has drawn attention to what is sensational. It was built using only HTML and CSS.
 
-- [Facebook Shimmer](https://github.com/jhonywalkeer/animations/tree/master/facebook-shimmer-animation) - Simple shimmer that exemplifies how a brief loading animation is created before the content.
+- [Facebook Shimmer](https://github.com/jhonywalkeer/animations/tree/master/facebook-shimmer-animation) - Simple shimmer that exemplifies how a brief loading animation is created before the content. It was built using only HTML and CSS.
 
-- [Falling Confetti](https://github.com/jhonywalkeer/animations/tree/main/falling-confetti) - A simple (but addictive) confetti falling animation
+- [Falling Confetti](https://github.com/jhonywalkeer/animations/tree/main/falling-confetti) - A simple (but addictive) confetti falling animation. It was built using only HTML and CSS.
 
-- [Loading LinkedIn](https://github.com/jhonywalkeer/animations/tree/master/loading-linkedin-animation) - LinkedIn loading animation, go to it and see this animation constantly appearing.
+- [Loading LinkedIn](https://github.com/jhonywalkeer/animations/tree/master/loading-linkedin-animation) - LinkedIn loading animation, go to it and see this animation constantly appearing. It was built using only HTML and CSS.
 
-- [Story Instagram](https://github.com/jhonywalkeer/animations/tree/master/story-instagram-animation) - The most seen animation when we're on instagram, the famous circle where we press to see the stories recreated in a simple way.
+- [Story Instagram](https://github.com/jhonywalkeer/animations/tree/master/story-instagram-animation) - The most seen animation when we're on instagram, the famous circle where we press to see the stories recreated in a simple way. It was built using only HTML and CSS.
 
-- [The Sass Husky](https://github.com/jhonywalkeer/animations/tree/master/the-sass-husky) - Animation of a charismatic puppy.
+- [The Sass Husky](https://github.com/jhonywalkeer/animations/tree/master/the-sass-husky) - Animation of a charismatic puppy. It was built using only HTML and SASS.
 
 
 
